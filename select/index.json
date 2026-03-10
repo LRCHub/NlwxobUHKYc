@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Loneliness of Spring",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-10T14:32:15.460082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loneliness of Spring",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_Loneliness_of_Spring_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルノ寂寞 (Loneliness of Spring)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_ハルノ寂寞_(Loneliness_of_Spring)_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loneliness of Spring",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_Loneliness_of_Spring_稲葉曇.txt"
+    }
+  ]
+}
